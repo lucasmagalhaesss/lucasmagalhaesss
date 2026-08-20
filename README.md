@@ -5,7 +5,7 @@
 
   <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=System.out.println(%22Hello%2C%20World!%22);;%20Software%20%26%20Engineering%20Student%20Architect;;Building%20autonomous%20systems%20%26%20next-gen%20apps;;Accessing%20JARVIS%20protocol..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=System.out.println(%22Hello%2C%20World!%22);;%20Software%20%26%20Engineering%20Student%20;;Front%20End%20%20%26%20;;Accessing%20JARVIS%20protocol..." alt="Typing SVG" />
   </a>
 
   <p align="center">
