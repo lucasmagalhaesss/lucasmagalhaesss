@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/lucas-magalh%C3%A3es-422041279/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:seu-email@dominio.com"><img src="https://img.shields.io/badge/NEURAL_MAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://seu-instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-00F5FF?style=for-the-badge&logo=codepen&logoColor=pink" alt="Instagram" /></a>
+    <a href="https://https://www.instagram.com/lucass_magalhaees/"><img src="https://img.shields.io/badge/INSTAGRAM-00F5FF?style=for-the-badge&logo=codepen&logoColor=pink" alt="Instagram" /></a>
   </p>
 
 </div>
