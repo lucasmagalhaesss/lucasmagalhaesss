@@ -17,4 +17,15 @@
 
 
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+<div align="center">
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:7928CA,100:00F5FF&height=120&section=footer" width="100%" alt="Footer Banner" />
+<p><code>SECURE CONNECTION TERMINATED // ALL SYSTEMS NORMAL</code></p>
+<p>⚡ <i>Construído com precisão cibernética.</i></p>
+
+
+
 
