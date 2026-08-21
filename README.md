@@ -15,6 +15,17 @@
     <a href="https://www.instagram.com/lucass_magalhaees/"><img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
+<div align="center">
+<!-- GITHUB STATS & STREAK -->
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=A0AEC0&icon_color=FF007F" height="165" alt="Stats Card" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF007F&currStreakLabel=00F5FF" height="165" alt="Streak Card" />
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=A0AEC0" height="165" alt="Top Langs Card" />
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&margin-w=4&row=1&column=7" width="95%" alt="Trophies" />
+</div>
 
 
 <div align="center">
