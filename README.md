@@ -29,3 +29,4 @@ agent:
   status: "ONLINE // Pronto para novos projetos & colaborações"
   operating_system: "Linux Arch / macOS / NeuralLink"
 
+<div align="center">
