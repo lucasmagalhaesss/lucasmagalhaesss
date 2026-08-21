@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- SYSTEM BOOT HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF007F&height=230&section=header&text=Lucas%20Magalhães%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7928CA,100:FF007F&height=230&section=header&text=Lucas%20Magalhães%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20moves%20the%20world%20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
