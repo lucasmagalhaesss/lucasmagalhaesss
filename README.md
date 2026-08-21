@@ -28,6 +28,8 @@ agent:
   core_directive: "Desenvolver arquiteturas escaláveis, seguras e orientadas a IA."
   status: "ONLINE // Pronto para novos projetos & colaborações"
   operating_system: "Linux Arch / macOS / NeuralLink"
+</div>
+---
 
 🎛️ ⁠TECH.MATRIX⁠ // ARSENAL TECNOLÓGICO
 <div align="center">
