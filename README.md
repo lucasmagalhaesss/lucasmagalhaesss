@@ -16,16 +16,5 @@
   </p>
 
 
-### 🧬 `SYS.OVERVIEW` // IDENTIFICAÇÃO DO AGENTE
-
-```yaml
-agent:
-  identity: "SEU NOME / CODINOME"
-  role: "Full Stack & AI Engineer"
-  core_directive: "Desenvolver arquiteturas escaláveis, seguras e orientadas a IA."
-  status: "ONLINE // Pronto para novos projetos & colaborações"
-  operating_system: "Linux Arch / macOS / NeuralLink"
-
-
 
 
