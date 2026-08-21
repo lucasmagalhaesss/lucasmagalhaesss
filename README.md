@@ -29,4 +29,6 @@ agent:
   status: "ONLINE // Pronto para novos projetos & colaborações"
   operating_system: "Linux Arch / macOS / NeuralLink"
 
+🎛️ ⁠TECH.MATRIX⁠ // ARSENAL TECNOLÓGICO
 <div align="center">
+
