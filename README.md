@@ -15,9 +15,6 @@
     <a href="https://www.instagram.com/lucass_magalhaees/"><img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
-</div>
-
----
 
 ### 🧬 `SYS.OVERVIEW` // IDENTIFICAÇÃO DO AGENTE
 
